@@ -34,6 +34,7 @@ Clona il repository ed esegui `install.sh`:
 ```bash
 git clone https://github.com/simdlldev/cmdsec.git
 cd cmdsec
+chmod +x install.sh
 ./install.sh
 ```
 
