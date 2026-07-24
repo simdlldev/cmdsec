@@ -90,6 +90,9 @@ Questo software viene fornito **"così com'è" (AS IS)**, senza garanzie di alcu
 - **Analisi IA**: Le valutazioni di sicurezza sono generate tramite Intelligenza Artificiale e possono occasionalmente contenere inesattezze, falsi positivi o falsi negativi.
 - **Responsabilità dell'Utente**: L'utente è l'unico ed esclusivo responsabile della verifica e dell'esecuzione di qualsiasi comando sul proprio sistema. In nessun caso gli autori o i titolari del copyright saranno responsabili per danni, perdite di dati o malfunzionamenti derivanti dall'uso di `cmdsec` o dall'esecuzione dei comandi analizzati.
 
+> **AI Usage**:
+> Parts of this project were developed with the assistance of Large Language Models. All generated code has been reviewed, tested, and maintained by humans.
+
 ---
 
 ## 📜 Licenza
